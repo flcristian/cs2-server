@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Inferno Night",
+    "MapID": 3124567099,
+    "Arguments": ""
+  },
+  {
+    "Name": "Dust2 CSS",
+    "MapID": 3070692502,
+    "Arguments": "+sv_cheats 1"
+  },
+  {
+    "Name": "Seek Town Remake (HnS)",
+    "MapID": 3105782939,
+    "Arguments": "+game_mode 0 +game_type 3"
+  }
+]

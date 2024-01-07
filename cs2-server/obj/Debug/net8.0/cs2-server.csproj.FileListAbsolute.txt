@@ -1,0 +1,14 @@
+D:\mycode\csharp\cs2-server\cs2-server\bin\Debug\net8.0\cs2-server.exe
+D:\mycode\csharp\cs2-server\cs2-server\bin\Debug\net8.0\cs2-server.deps.json
+D:\mycode\csharp\cs2-server\cs2-server\bin\Debug\net8.0\cs2-server.runtimeconfig.json
+D:\mycode\csharp\cs2-server\cs2-server\bin\Debug\net8.0\cs2-server.dll
+D:\mycode\csharp\cs2-server\cs2-server\bin\Debug\net8.0\cs2-server.pdb
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.AssemblyInfoInputs.cache
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.AssemblyInfo.cs
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.dll
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\refint\cs2-server.dll
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.pdb
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\cs2-server.genruntimeconfig.cache
+D:\mycode\csharp\cs2-server\cs2-server\obj\Debug\net8.0\ref\cs2-server.dll

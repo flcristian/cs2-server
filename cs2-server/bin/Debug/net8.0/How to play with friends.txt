@@ -1,0 +1,29 @@
+If you're getting the "Unable To Establish a Connection With the Gameserver" error, I found a way to play with friends since workshop map lobbies also don't work so far.
+This entire guide was mainly made for this purpose.
+It also doesn't require any port forwarding if you don't know how to do it or can't for some reason.
+
+First of all, you all need to install an Hamachi-like app called ZeroTier One. It's used to make virtual lan connections between you and your friends.
+https://www.zerotier.com
+
+You all need to install it from here: https://www.zerotier.com/download/
+
+Only the one who is hosting the server needs to register and create a network on it.
+The first thing you'll see is you have a network id, remember it exists.
+
+You now have two options, make it private (you need to manually add your friends) or make it public (they can join by having the network id).
+I honestly recommend using public because it's much faster, and noone is going to guess your network id anyway.
+
+After you all installed it, if you try to open it, there won't appear any windows on your screen.
+That's not because it's a virus, but because it's opened in the background, go to your background apps
+(next to the language selector in windows there is an arrow) and click on it from there.
+Press join new network and paste the network id.
+Now you have successfully joined the network id.
+
+How do you connect to the server after this?
+The one who is hosting the server, open the app from the background apps thing, now you should see your own address,
+example : a91amb71ka (10 letters and numbers)
+Now go on the network configuration on the browser.
+Scroll to the bottom and you'll see everyone who joined the network.
+Recognize your own address and look at Managed IPs, that is the IP everyone needs to connect to after the server is open.
+Example: 172.28.189.181\
+!!!!!THIS ISN'T YOUR PHYSICAL IP!!!!!

@@ -1,0 +1,7 @@
+{
+  "CS2Path": "YOUR_CS2_PATH",
+  "SteamGameserverApiCode": "YOUR_STEAM_GAMESERVER_API_CODE",
+  "Port": 27015,
+  "VacEnabled": true,
+  "UseWorkshopMap": false
+}
