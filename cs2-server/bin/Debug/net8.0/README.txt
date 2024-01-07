@@ -71,3 +71,11 @@ Arguments
 If you want to start the server with some specific arguments, like this
 "+sv_cheats 1 +sv_autobunnyhopping 1" - this would enable bunnyhopping on the server automatically when it starts.
 IF YOU DONT WANT ANY LEAVE EMPTY LIKE THIS : ""
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+COMMON ISSUES:
+If nothing happens after starting cs2-server.exe and you modified the variables.json
+IT MEANS YOU HAVE ENTERED THE WRONG PATH
+PLEASE VERIFY THE VALUES YOU ENTERED.
+
+FOR ANY ISSUES ADD ME ON DISCORD AND I'LL TRY TO HELP: ruskizeu

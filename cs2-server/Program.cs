@@ -12,6 +12,8 @@ internal class Program
         if (variables.GetCS2Path().Equals("YOUR_CS2_PATH"))
         {
             Console.WriteLine("YOU MUST REPLACE THE CS2 PATH IN ORDER FOR IT TO WORK!");
+            Console.WriteLine("CLOSE OR PRESS ENTER TO EXIT");
+            Console.ReadLine();
             return;
         }
 
